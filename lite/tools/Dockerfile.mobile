@@ -1,6 +1,6 @@
 # A image for paddle lite mobile cross compile and simulator on android
 
-FROM ubuntu:16.04
+FROM ubuntu:xenial-20210114
 MAINTAINER PaddlePaddle Authors <paddle-dev@baidu.com>
 
 RUN echo '\
